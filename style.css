@@ -169,7 +169,7 @@ h3 ~ p {
 -------------------------*/
 .education {
   background: linear-gradient(rgba(168, 245, 241, 0.8), rgba(118, 160, 160, 0.5)),
-              url(../CV2/images/jecrc_campus.jpg) no-repeat fixed;
+              url(../images/jecrc_campus.jpg) no-repeat fixed;
   background-size: cover;
 }
 p + h3 {
